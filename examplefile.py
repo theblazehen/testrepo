@@ -1,1 +1,1 @@
-pass="Tr0ub4dor&3"
+pass = "Tr0ub4dor&3"
