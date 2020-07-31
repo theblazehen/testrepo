@@ -4,3 +4,9 @@ ip = "10.128.0.1"
 another pass = "hunter2"
 
 127.0.0.1
+
+super important password = "password123"
+
+admin_url = "https://admin:password@example.com"
+
+
