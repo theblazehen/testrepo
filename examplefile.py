@@ -9,4 +9,6 @@ super important password = "password123"
 
 admin_url = "https://admin:password@example.com"
 
+example_url = "https://admin:password@important.domain"
 
+password = "hunter2"
